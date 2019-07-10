@@ -172,9 +172,9 @@ export default {
 
       const pointA = new google.maps.LatLng(this.wayPoints[0].lat, this.wayPoints[0].lng)
       const pointB = new google.maps.LatLng(this.wayPoints[1].lat, this.wayPoints[1].lng)
-      const pointC = new google.maps.LatLng(this.wayPoints[2].lat, this.wayPoints[2].lng)
-      const pointD = new google.maps.LatLng(this.wayPoints[3].lat, this.wayPoints[3].lng)
-      const pointE = new google.maps.LatLng(this.wayPoints[4].lat, this.wayPoints[4].lng)
+      // const pointC = new google.maps.LatLng(this.wayPoints[2].lat, this.wayPoints[2].lng)
+      // const pointD = new google.maps.LatLng(this.wayPoints[3].lat, this.wayPoints[3].lng)
+      // const pointE = new google.maps.LatLng(this.wayPoints[4].lat, this.wayPoints[4].lng)
 
       /*
       const markerA = new google.maps.Marker({
